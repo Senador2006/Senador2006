@@ -68,9 +68,3 @@
 - [Real life time chat]
 - [Career GPS]
 
----
-
-<!-- Animação opcional do grid contributions -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/senador2006/senador2006/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
