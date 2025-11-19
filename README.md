@@ -12,7 +12,7 @@
 
 <!-- Badges sociais estilizados e ícones extras -->
 <p align="center">
-  <a href="https://linkedin.com/in/thiago-sakai"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/thiago-sakai-6a9985346"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:thisakai2006@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <a href="https://X.com/2006_sakai"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://github.com/senador2006"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
