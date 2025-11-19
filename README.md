@@ -38,16 +38,11 @@
 - **DevOps:** Docker, Render
 - **Extras:** Arduino, APIs públicas, N8N
 
-#### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago-sakai&show_icons=true&theme=radical" alt="Github Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-sakai&theme=radical" alt="Github Streak"/>
-</p>
 
 #### 📂 **Projetos em Destaque**
-- [Projeto Gamificado de Educação Financeira](URL)
-- [Chat em tempo real](URL)
-- [GPS_de_carreira](URL)
+- [Projeto Gamificado de Educação Financeira]
+- [Chat em tempo real]
+- [GPS_de_carreira]
 
 ---
 
@@ -69,9 +64,9 @@
 - **Others:** Arduino, Public APIs, N8N
 
 #### 📂 **Featured Projects**
-- [Gamified Financial Education Platform](URL)
-- [Real life time chat](URL)
-- [Career GPS](URL)
+- [Gamified Financial Education Platform]
+- [Real life time chat]
+- [Career GPS]
 
 ---
 
