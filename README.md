@@ -1,6 +1,6 @@
 <!-- Banner animado e visual (substitua a URL por uma do LottieFiles, Canva ou Tenor, conforme sua preferência) -->
 <p align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_mjlh3hcy.json" alt="Animated Banner" width="100%" />
+  <img src="github-header-banner.png" alt="Animated Banner" width="100%" />
 </p>
 
 <!-- Se preferir GIF animado, use -->
